@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "noise",
+  "base_artist": "kanekoayano",
+  "createdAt": "2026-02-09T14:54:28.070239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Countdown (Feat. LDN Noise)",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/01_Countdown_(Feat._LDN_Noise)_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Noise",
+      "artist": "Amber",
+      "has_synced": true,
+      "path": "select/02_White_Noise_Amber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Noise",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/03_White_Noise_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Noise",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/04_Make_Noise_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Tie White Noise (Radio Edit) [feat. Al B. Sure] - 2021 Remaster",
+      "artist": "David Bowie feat. Al B. Sure!",
+      "has_synced": false,
+      "path": "select/05_Black_Tie_White_Noise_(Radio_Edit)_[feat._Al_B._Sure]_-_2021_Remaster_David_Bowie_feat._Al_B._Sure!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knew Noise",
+      "artist": "Section 25",
+      "has_synced": true,
+      "path": "select/06_Knew_Noise_Section_25.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Space Is Only Noise If You Can See",
+      "artist": "Nicolas Jaar",
+      "has_synced": true,
+      "path": "select/07_Space_Is_Only_Noise_If_You_Can_See_Nicolas_Jaar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "comfort noise",
+      "artist": "umru",
+      "has_synced": true,
+      "path": "select/08_comfort_noise_umru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "comfort noise (Lewis Grant remix)",
+      "artist": "umru feat. Lewis Grant",
+      "has_synced": true,
+      "path": "select/09_comfort_noise_(Lewis_Grant_remix)_umru_feat._Lewis_Grant.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "comfort noise (Lewis Grant remix)",
+      "artist": "Umru",
+      "has_synced": true,
+      "path": "select/10_comfort_noise_(Lewis_Grant_remix)_Umru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Noise Epic",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/11_Noise_Epic_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Standing on the Edge of the Noise",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/12_Standing_on_the_Edge_of_the_Noise_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Noise of the Void",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/13_Noise_of_the_Void_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Noise",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/14_Big_Noise_Cutting_Crew.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "noise",
+      "artist": "kanekoayano",
+      "has_synced": false,
+      "path": "select/pl_01_noise_kanekoayano.txt"
+    }
+  ]
+}
